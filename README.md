@@ -1,6 +1,6 @@
 ## Olá, eu sou o Adriano Paulo 🖐️
 
-<p>Estudante de Engenharia Informática.</p>
+![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Paulo2910&show_icons=true&theme=monokai&count_private=true)
 
 ## Tecnologias que eu uso no dia
 <div style="display: inline_block"><br>
